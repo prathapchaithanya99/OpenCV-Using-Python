@@ -9,7 +9,7 @@
 import cv2 as cv
 
 img = cv.imread('Desktop/PRATHAP_PHOTO.jpg')
-cv.imshow('Cats', img)
+cv.imshow('Prathap', img)
 
 cv.waitKey(0)
 
